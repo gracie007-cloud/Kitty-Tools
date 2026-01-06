@@ -1343,7 +1343,7 @@ class InfoTab(QWidget):
                     <div style="background-color: {ThemeEngine.Colors.DARK_BG}; padding: 15px; border-radius: 8px;">
                         <h4 style="color: {ThemeEngine.Colors.PUMPKIN}; margin-top: 0px;">Developer</h4>
                         <ul style="list-style-type: none; padding-left: 5px;">
-                            <li style="margin-bottom: 10px;"><b style="color: {ThemeEngine.Colors.PUMPKIN};">CPScript</b> - Lead Developer & Project Architect</li>
+                            <li style="margin-bottom: 10px;"><b style="color: {ThemeEngine.Colors.PUMPKIN};">0u44</b> - Lead Developer & Project Architect</li>
                         </ul>
                     </div>
                     
@@ -1468,7 +1468,7 @@ class InfoTab(QWidget):
                 </div>
                 
                 <div style="text-align: center; margin-top: 20px; padding: 10px; font-weight: bold; color: {ThemeEngine.Colors.PUMPKIN};">
-                    © 2025 Kitty Tools Development Team. All rights reserved. | CPScript
+                    © 2025 Kitty Tools Development Team. All rights reserved. | 0u44
                 </div>
             </div>
         """)
