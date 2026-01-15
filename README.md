@@ -198,5 +198,5 @@ If you find Kitty-Tools useful, please consider giving it a star on GitHub to he
 ---
 
 <p align="center">
-  &copy; 2025 Kitty-Tools | All rights reserved
+  &copy; 2026 Kitty-Tools | All rights reserved
 </p>
