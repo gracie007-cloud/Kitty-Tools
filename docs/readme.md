@@ -9,5 +9,5 @@
   * Being updated soon
 
 <p align="center">
-  &copy; 2024 Kitty-Tools All rights reserved.
+  &copy; 2026 Kitty-Tools All rights reserved.
 </p>
