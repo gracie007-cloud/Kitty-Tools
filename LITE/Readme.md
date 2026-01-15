@@ -15,11 +15,11 @@
 
 ---
 
-> This version of `Kitty-Tools` is ment to be ran on Android!
+> This version of `Kitty-Tools` is meant to be ran on Android!
 
 ---
 
 <p align="center">
-  &copy; 2025 Kitty Tools LITE. All rights reserved.
+  &copy; 2026 Kitty Tools LITE. All rights reserved.
   | BETA v1.10
 </p>
