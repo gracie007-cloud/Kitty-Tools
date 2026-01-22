@@ -12,7 +12,7 @@
 * install git: Installs a github Repo via a terminal
 * cd: Change directory (Used to go to a file via terminal)
 * cmd: Command (You can type "CMD" in the windows start bar to open its command prompt!)
-* repo: repository (If your reading this than your looking at a repository's readme.md)
+* repo: repository (If your reading this then you're looking at a repository's readme.md)
 * dir: directory (File location)
 
 
