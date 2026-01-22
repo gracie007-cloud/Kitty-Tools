@@ -1,6 +1,9 @@
 # Kitty-Tools - v36.2
 > Please go check out my other repositories. there might be something you like <3
 
+>[!warning]
+> The bot script, also known as the "Flooder" is no longer working. A Fix will be made soon.
+
 <div align="left">
 
 [![Version](https://img.shields.io/badge/Version-36.2-orange.svg)](https://github.com/CPScript/Kitty-Tools)
